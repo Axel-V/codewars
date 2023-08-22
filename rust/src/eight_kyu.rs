@@ -4,3 +4,4 @@ mod fake_binary;
 mod make_uppercase;
 mod remove_string_spaces;
 mod string_repeat;
+mod sum_mixed_array;
