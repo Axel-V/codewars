@@ -1,5 +1,7 @@
 mod are_you_playing_banjo;
 mod basic_mathematical_operations;
+mod convert_string_to_number;
+mod counting_sheep;
 mod fake_binary;
 mod make_uppercase;
 mod remove_string_spaces;
