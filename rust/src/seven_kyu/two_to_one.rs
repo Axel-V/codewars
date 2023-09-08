@@ -16,7 +16,7 @@ fn longest(a1: &str, a2: &str) -> String {
     // Transform the string into a vector of chars
     let mut result_array: Vec<char> = result.chars().collect();
 
-    // sort the vetor
+    // sort the vector
     result_array.sort();
 
     // transform the vector into a string
